@@ -71,7 +71,7 @@
   
   .paper {
     position: absolute;
-    padding: 2rem; /* Aumentar padding */
+    padding: 1.5rem; /* Aumentar padding */
     line-height: 2.5rem; /* Aumentar line-height */
     right: 5px;
     z-index: -1;
